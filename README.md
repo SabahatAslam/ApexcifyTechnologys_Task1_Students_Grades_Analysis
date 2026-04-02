@@ -56,7 +56,7 @@ The following important data analysis concepts are used in this project:
 - Visualizes data using graphs and distributions  
 ---
 
-### ▶️ How to Run the Project
+### ▶️ Project Execution Steps
 -  Clone the repository to get the required files.
 ```bash
 git clone https://github.com/your-username/your-repo.git
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 * OR click the **Colab badge above**
 ---
 
-- 5️⃣ View Output
+- 🔹 View Output
 
 * Notebook -> Output inside cells
 * Script -> Output in terminal
@@ -96,6 +96,6 @@ pip install -r requirements.txt
 
 **Sabahat Aslam**
 
-* 🔗 GitHub: [)
-* 🔗 LinkedIn: [)
+* 🔗 GitHub: <https://github.com/SabahatAslam>
+* 🔗 LinkedIn: <https://www.linkedin.com/in/sabahat-a-7779b2381/>
 ---
