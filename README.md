@@ -59,8 +59,7 @@ The following important data analysis concepts are used in this project:
 ### ▶️ Project Execution Steps
 -  Clone the repository to get the required files.
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/SabahatAslam/ApexcifyTechnologys_Students-_Grade_Analysis_Task_1.git
 ```
 - First navigate to project folder in command prompt and install the required libraries by writing the following command.
 ```bash
